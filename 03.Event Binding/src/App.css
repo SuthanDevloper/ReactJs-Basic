@@ -1,0 +1,48 @@
+/*nav{
+        background-color: mediumturquoise;
+        color: blue;
+        padding: 20px;
+        font-size: x-large;
+
+}
+nav a{
+
+    color: floralwhite;
+    text-decoration: none;
+}
+
+.card{
+    box-shadow: 0 0 10px greenyellow;
+    width: 300px;
+    margin: 30px;
+    padding: 10px;
+
+    background:linear-gradient(45deg,pink,blueviolet);
+    color: darkred;
+
+
+}
+
+.card-body h3{
+
+    font-size: 25px;
+    margin: 0px;
+}
+
+.card-body p {
+
+    font-size: 18px;
+
+} */
+
+.landing-page{
+    background:plum url("./assets/img/bg-image.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: palegoldenrod;
+}
+
+.wrapper{
+    background-color: rgba(0,0,0,0,5);
+    height:100%
+}
